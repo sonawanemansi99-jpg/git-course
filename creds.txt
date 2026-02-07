@@ -1,2 +1,0 @@
-username = mansi
-password = mansi@24
