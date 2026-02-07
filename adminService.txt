@@ -1,5 +1,6 @@
 add and remove users
 change the roles
+manage the database
 
 change 1
 
